@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://blue0orbit.github.io/nzlearner-legal/sitemap.xml
